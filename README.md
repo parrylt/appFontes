@@ -1,6 +1,15 @@
 app criado para atividade de MOBILE I do curso de DS da Etec de Guarulhos. Atividade após a aula em que aprendemos como usar fontes.
 <br><br>
-
+<div align="center">
+  <h3>Algumas frases que o professor pediu para treinar fontes</h3>
+  <img src="ImagensGit/1.png"><img src="ImagensGit/2.png"><img src="ImagensGit/3.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Aqui eu já perdi a paciência com o papinho de coach e comecei a zoar. Mas o código está perfeitinho!!!!!</h3>
+  <img src="ImagensGit/4.png"><img src="ImagensGit/5.png"><img src="ImagensGit/6.png"><img src="ImagensGit/7.png"><img src="ImagensGit/8.png"><img src="ImagensGit/9.png"><img src="ImagensGit/10.png">
+</div>
+<br><br>
 
 aqui abaixo as mensagens do snack
 # Sample Snack app
