@@ -11,6 +11,8 @@ app criado para atividade de MOBILE I do curso de DS da Etec de Guarulhos. Ativi
 </div>
 <br><br>
 
+o link do snack: https://snack.expo.dev/@romulojr/appfontes
+<br>
 aqui abaixo as mensagens do snack
 # Sample Snack app
 
